@@ -2,13 +2,13 @@
 
 A application were you can chat with anyone, you just have to share your invite code. This application is made in flutter with Firebase Cloud Database.
 
-Features used:
+Flutter features used:
 * Providers
 * Future/ Future Builder
-* Auth
+* Auth & Auth Life cycle
 * Firebase Cloud Security
 * Stream Builder
-* Auth Life cycle
+
 <br>
 
 <p float="left">
