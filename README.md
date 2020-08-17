@@ -9,10 +9,11 @@ Features used:
 * Firebase Cloud Security
 * Stream Builder
 * Auth Life cycle
-
+<br>
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/31320274/90418534-db95c100-e0d2-11ea-9f50-02e82ce240df.jpeg" width="250">
+ &emsp;&emsp;&emsp;&emsp;
 <img src="https://user-images.githubusercontent.com/31320274/90421966-cc654200-e0d7-11ea-84df-ad2e62b28a33.jpeg" width="250">
  <br>
 <img src="https://user-images.githubusercontent.com/31320274/90421974-ce2f0580-e0d7-11ea-898d-cca4163f23fd.jpeg" width="250">
